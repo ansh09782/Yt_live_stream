@@ -1,0 +1,4 @@
+This repo live streams a video 24/7 from Google Drive to YouTube using Railway.
+
+**Video Source**: https://drive.google.com/uc?export=download&id=10bEcXL7qek97d7QopEMtcsjYedz68mC1  
+**Streaming Command**: Uses ffmpeg to stream looped video to YouTube RTMP
